@@ -9,5 +9,6 @@ public void testMethodTest() {
 System.out.println("newchng");
 	System.out.println("TL update");
 	System.out.println("last evening updates which you missed");
+	System.out.println("whole day updates");
 }
 }
