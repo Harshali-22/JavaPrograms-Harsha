@@ -6,6 +6,7 @@ public class Harshali {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hapy New Year");
+		System.out.println("Hello");
 	}
 
 }
